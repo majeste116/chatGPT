@@ -1,0 +1,3 @@
+##Overview.
+
+In this chapter, we introduce an additional source of heterogeneity. Agents do not only differ with regard to their individual productivity or their wealth, but also with regard to their age. First, you will learn how to compute a simple overlapping generations model (OLG model) where each generation can be represented by a homogeneous household. Subsequently, we study the dynamics displayed by the typical Auerbach-Kotlikoff model. We will pay particular attention to the updating of the transition path for the aggregate variables.
